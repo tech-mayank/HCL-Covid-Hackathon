@@ -3,7 +3,7 @@
 
 ## :clap: Presentation
 
-[![Watch the video](https://imgur.com/6G0gbPG.jpg)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
+[![Watch the video](https://www.google.com/imgres?imgurl=https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211364644%2F960x0.jpg%3Ffit%3Dscale&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbrucelee%2F2020%2F03%2F17%2Fcovid-19-coronavirus-did-not-come-from-a-lab-study-shows-natural-origins%2F&tbnid=5AdDTAvufwPSpM&vet=12ahUKEwimtaGE0Y7rAhWUcH0KHVUFATYQMygNegUIARCYAQ..i&docid=cPkb0jh-t-LltM&w=960&h=540&q=covid-19%20images&safe=active&ved=2ahUKEwimtaGE0Y7rAhWUcH0KHVUFATYQMygNegUIARCYAQ)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
