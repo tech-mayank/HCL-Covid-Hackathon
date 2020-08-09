@@ -1,5 +1,5 @@
 <h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE - Team Hack AI</h1>
-<iframe src="https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing" title="Presentation"></iframe>
+[![Watch the video](https://imgur.com/6G0gbPG.jpg)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
