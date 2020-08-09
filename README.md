@@ -1,4 +1,8 @@
 <h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE - Team Hack AI</h1>
+
+
+## :clap: VideoLink as a sample output for my mask detection system
+
 [![Watch the video](https://imgur.com/6G0gbPG.jpg)](https://drive.google.com/file/d/1jKcx7tS5amD0SMrpNnpJ9u2GSCvxtOhS/view?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
