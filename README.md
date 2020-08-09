@@ -3,7 +3,7 @@
 
 ## :clap: Presentation
 
-[![Watch the video]()](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
+[![Watch the video](moqup.png)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
