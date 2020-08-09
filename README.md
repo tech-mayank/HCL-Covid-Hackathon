@@ -1,9 +1,9 @@
 <h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE - Team Hack AI</h1>
 
 
-## :clap: Presentation
+## :clap: Click to view the presentation
 
-[![Watch the video](https://github.com/tech-mayank/HCL-Covid-Hackathon/blob/master/moqup.PNG)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
+[![Presentation](https://github.com/tech-mayank/HCL-Covid-Hackathon/blob/master/moqup.PNG)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
