@@ -1,4 +1,4 @@
-<h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE - Team Hack AI</h1>
+<h1 align="center">ARTIFICIAL INTELLIGENCE BASED COVID 19 SOLUTION COMPLIANCE</h1>
 
 
 ## :clap: Click to view the presentation
