@@ -3,7 +3,7 @@
 
 ## :clap: Click to view the presentation
 
-[![Presentation](https://github.com/tech-mayank/HCL-Covid-Hackathon/blob/master/moqup.PNG)](https://docs.google.com/presentation/d/1ldNTI5d3_yjGTb04S5HtuNlP3ETq9QduyPOpRuBE-CM/edit?usp=sharing)
+[![Presentation](https://github.com/tech-mayank/HCL-Covid-Hackathon/blob/master/moqup.PNG)](https://docs.google.com/presentation/d/1J3etXndVzBno0fxjlRQ-eer780d3PQX0rQuPm3_OSME/edit?usp=sharing)
 
 <h2 align="center">AI Based Mask Detection System</h2>
 
